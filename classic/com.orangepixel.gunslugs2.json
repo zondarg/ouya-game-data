@@ -2,6 +2,7 @@
     "packageName": "com.orangepixel.gunslugs2",
     "title": "Gunslugs 2",
     "description": "If you like over the top action, chaos, explosions, weirdness and don’t take it all too serious, then you know exactly what Gunslugs is all about. \n\nA combination of fast run and gun gameplay mixed with elements of all our favorite movies and other pop-art from the 90s and 80s.\n\n- Now with DAILY CHALLENGES!  \n\nSTORY\nThe Black Duck Army is back with new domination plans, this time they want to take the galaxy! Their signal towers are covering the planet, and alien technology seems to be used all over the place  Luckily the Gunslugs are here to stop them.\n\nCONTENT\nSeven worlds, 8 levels per world, end of level bosses, randomly generated inside-area's, tanks,hell-worms,rocket-launchers,aliens,lightning guns, huge spaceships, cut scenes, and so much more, all keeping you clinging to your device.\n\nGUNSLUGS\nThis is the second title in the Gunslugs game series, Gunslugs games are chaotic run and gun games based on the over the top action movies of the 80's.  Don't take it too serious! have fun with the game and try to rescue the world: be the hero!\n\n\nFor hints, tips and more, FOLLOW US at\nTwitter @orangepixel\nfacebook.com/orangepixel",
+    "notes": "Does not unlock by request of the developer",
     "players": [
         1
     ],
@@ -24,7 +25,6 @@
             "md5sum": "f6ce96f4f66139196fd51a13f0805cac",
             "publicSize": 9518151,
             "nativeSize": 0,
-            "latest": true,
             "cert_fingerprint": "3F:BF:5E:F4:30:6D:A8:CE:57:CE:8F:A1:A9:20:67:B4:FC:1E:CC:01:5C:7E:36:04:4D:6B:EC:62:80:76:4C:0B",
             "cert_subject": "C = nl, ST = noordholland, L = den helder, O = orangepixel, OU = orangepixel, CN = pascal bestebroer"
         }
@@ -83,16 +83,5 @@
         "likeCount": 0,
         "average": 3.85,
         "count": 271
-    },
-    "products": [
-        {
-            "promoted": true,
-            "identifier": "gunslugs2_full",
-            "name": "Gunslugs 2 full",
-            "description": "Unlock the full version of Gunslugs 2,  7 worlds, 8 levels per world, end-bosses, animations, and arcade-mode!",
-            "localPrice": 2.99,
-            "originalPrice": 2.99,
-            "currency": "EUR"
-        }
-    ]
+    }
 }

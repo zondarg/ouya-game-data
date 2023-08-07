@@ -3,7 +3,8 @@
     "title": "3D Christmas Defense",
     "description": "This is a wave defense game I made for the OUYA Winter Game Jam 2021.\n\nFeatures:\n- Infinite Waves\n- 4 Player although performance will be questionable\n- Christmas Music",
     "players": [
-        1, 4
+        1,
+        4
     ],
     "genres": [
         "Arcade/Pinball",
@@ -15,7 +16,6 @@
             "versionCode": 1,
             "uuid": "bdeda9b0-21f7-49b8-8714-b18b8161ea49",
             "date": "2021-12-27T09:39:00Z",
-            "latest": true,
             "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.RobbysGames.ThreeDChristmasDefense/com.RobbysGames.ThreeDChristmasDefense-1.apk",
             "size": 36304293,
             "md5sum": "369c65936fb8a9b46831df8cb461ef85",
@@ -24,8 +24,7 @@
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/2021-12-jam/com.RobbysGames.ThreeDChristmasDefense/defense0.jpg",
-    "media": [
-    ],
+    "media": [],
     "developer": {
         "uuid": "00000000-75f5-4b50-a351-c04a5213ccb2",
         "name": "Bobbert22",

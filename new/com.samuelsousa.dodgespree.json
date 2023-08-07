@@ -1,7 +1,7 @@
 {
     "packageName": "com.samuelsousa.dodgespree",
     "title": "Dodge Spree",
-    "description": "Run - Jump - Escape to Salvation\n\nThey are coming! You better get moving before they catch you!\n\nTaking place some time after the events of Shoot & Destroy,\nDodge Spree is 1-bit 2D forced side scrolling platformer (Runner - for short).\n\nRun, jump, duck and slide your way towards salvation.\nNOTE: You can only duck for a limited time, so try it before it's required :).\n\nCreated by Samuel Sousa\n\nCreated in 2011 with Game Maker, this port aims to preserve this project in its essence, making it playable for the OUYA Anniversary Jam 2021.\n\nPS: Downloadble content is still work in progress.",
+    "description": "Dodge Spree is a 1-bit 2D auto runner.\n\nRun - Jump - Slide - Rush towards Salvation\n\nYou can only duck for a limited time, so try it before it's required :).\n\nPrototyped in 2011, presented in 2021 for OUYA.\n\nAn extended version, Dodge Spree X, is now available for purchase on the developer's store page.\n\nFollow and stay tuned for more updates.",
     "players": [
         1
     ],
@@ -15,10 +15,22 @@
             "versionCode": 1020021,
             "uuid": "7c2cf227-922b-404a-bc03-3fd2002b46b9",
             "date": "2021-07-01T15:23:11Z",
-            "latest": true,
             "url": "http://ouya.cweiske.de/apks/2021-06-jam/com.samuelsousa.dodgespree/com.samuelsousa.dodgespree-1020021.apk",
             "size": 15544265,
             "md5sum": "761abc146066e6fdf80fd3bd0d3b9499",
+            "cert_fingerprint": "22:45:F6:69:82:AC:C5:23:B9:1F:30:F9:BD:2D:1E:7E:55:C1:F6:4E:39:A1:D3:54:5B:E3:E6:E2:1C:28:C6:01",
+            "cert_subject": "C = PT, L = Portugal, O = Samuel Sousa, OU = Development, CN = Samuel"
+        },
+        {
+            "name": "1.20.21",
+            "versionCode": 1020021,
+            "uuid": "2370a43b-e657-4573-bbcc-2e0c0ea5d9d3",
+            "date": "2023-04-24T11:15:32z",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.dodgespree/Dodge%20Spree_1.20.21_com.samuelsousa.dodgespree.apk",
+            "size": 12693696,
+            "md5sum": "F18B4E2A1C9133D5C4BD2D5D198D132D",
+            "publicSize": 0,
+            "nativeSize": 0,
             "cert_fingerprint": "22:45:F6:69:82:AC:C5:23:B9:1F:30:F9:BD:2D:1E:7E:55:C1:F6:4E:39:A1:D3:54:5B:E3:E6:E2:1C:28:C6:01",
             "cert_subject": "C = PT, L = Portugal, O = Samuel Sousa, OU = Development, CN = Samuel"
         }
